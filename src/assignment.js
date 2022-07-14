@@ -42,7 +42,7 @@ function countEvenNumbers(arrayOfNumbers) {
     return evenNum;
     //return arrayOfNumbers.length;
 }
-assignment.countEvenNumbers = countEvenNumbers;
+    assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
